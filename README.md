@@ -1,4 +1,5 @@
 #🐍 CS50's Introduction to Programming with Python
+
 A comprehensive collection of materials, exercises, and resources from Harvard's CS50 Introduction to Programming with Python course. This repository contains practical implementations, study notes, and a complete learning roadmap for mastering Python programming fundamentals.
 🎓 Course Overview
 This repository follows Harvard's CS50P curriculum, covering essential Python programming concepts through hands-on exercises and real-world applications. Perfect for beginners and those looking to solidify their Python foundation.
