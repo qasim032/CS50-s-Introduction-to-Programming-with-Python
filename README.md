@@ -180,9 +180,6 @@ Original Work: Use as reference, create your own solutions<br>
 Collaboration: Learn together while maintaining individual effort<br>
 Honor Code: Follow your institution's academic policies<br>
 
-📜 License
-This project is shared for educational purposes under the MIT License. Please use responsibly and maintain academic integrity.
-🙏 Acknowledgments
 
 Harvard CS50: For providing excellent curriculum and resources<br>
 David J. Malan: Course instructor and Python education advocate<br>
